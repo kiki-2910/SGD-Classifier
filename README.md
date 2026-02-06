@@ -52,7 +52,6 @@ print("\nClassification Report:\n", report)
 ```
 
 ## Output:
-<img width="248" height="80" alt="image" src="https://github.com/user-attachments/assets/54d12c3f-991a-4ffa-9a5b-c8ab8680e490" />
 <img width="180" height="42" alt="image" src="https://github.com/user-attachments/assets/b68b1690-1dab-4bb6-864a-7060baa32ca4" />
 <img width="221" height="102" alt="image" src="https://github.com/user-attachments/assets/c37b015e-dbe1-4da4-a650-8d4c0d0a6ae3" />
 <img width="565" height="258" alt="image" src="https://github.com/user-attachments/assets/d90ab258-bb70-4609-93db-98d853e2384c" />
